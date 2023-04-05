@@ -63,5 +63,8 @@ g1644qje5rx6jsdqfkzmgnfcegx4dxkjh6rwqd69=10000000000ugnot # @MadafakAvril14th #9
 g1mzjajymvmtksdwh3wkrndwj6zls2awl9q83dh6=10000000000ugnot # @Vanlee #89
 g1qpymzwx4l4cy6cerdyajp9ksvjsf20rk5y9rtt=10000000000ugnot # @zooma
 
+g1qt9me4l08e5fxk8xtq7up2gkm2l3w3p3qvtn7x=10000000000ugnot # @SellerKey
+g1elprxa5jjmarycxky0jhmnu3pt4akuuksm6m9e=10000000000ugnot # @UserKey
+
 # NOTE: Thanks guys, no more keys through genesis this way though:
 # we now have a faucet.
